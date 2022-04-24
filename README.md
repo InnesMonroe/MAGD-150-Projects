@@ -1,6 +1,7 @@
 # MAGD 150 Projects
 
-[Project 2](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab02_Monroe)
+**[Project 2](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab02_Monroe)**
+Simplified lunar phase cycle
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
