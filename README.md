@@ -4,19 +4,19 @@
 Simplified lunar phase cycle
 
 **[Project 5](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab05_Monroe)**
-Simplified lunar phase cycle
+Interactive TV with gears
 
 **[Project 6](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab06_Monroe)**
-Simplified lunar phase cycle
+
 
 **[Project 7](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab07_Monroe)**
-Simplified lunar phase cycle
+Gear flowers
 
 **[Project 8](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab08_Monroe)**
-Simplified lunar phase cycle
+Movie poster
 
 **[Project 10](https://github.com/InnesMonroe/MAGD-150-Projects/tree/gh-pages/s22magd150lab10_Monroe)**
-Simplified lunar phase cycle
+3D Earth, moon, and sun
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
